@@ -1,0 +1,75 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #131921;
+  /* to make it stick on top of the screen */
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* Header amazon logo ======================================= */
+.header__logo {
+  width: 100px;
+  object-fit: contain;
+  margin: 0 20px;
+  margin-top: 18px;
+}
+
+/* Search bar =============================================== */
+.header__search {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  border-radius: 24px;
+}
+.header__searchInput {
+  height: 12px;
+  padding: 10px;
+  width: 100%;
+  border: none;
+}
+.header__searchIcon {
+  padding: 5px;
+  height: 22px !important;
+  background-color: #cd9042;
+}
+
+/* Header nav ================================================= */
+/* to make options use space evenly  */
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header__option {
+  display: flex;
+  color: #fff;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header__option1 {
+  font-size: 10px;
+}
+
+.header__option2 {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+/* Header nav Basket Icon ========================================= */
+.header__optionBasket {
+  display: flex;
+  /* aligning it with the other nav items */
+  align-items: center;
+  color: #fff;
+}
+.header__optionBasketIcon {
+  color: #fff;
+}
+.header__optionBasketCount {
+  margin: 0 10px;
+}
