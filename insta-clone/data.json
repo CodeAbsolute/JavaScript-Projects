@@ -1,0 +1,39 @@
+{
+  "id": 4843,
+  "uid": "4d4c41e9-135b-4d30-9397-a8b36f0b85da",
+  "password": "C28USITfdi",
+  "first_name": "Era",
+  "last_name": "Koepp",
+  "username": "era.koepp",
+  "email": "era.koepp@email.com",
+  "avatar": "https://robohash.org/veroenimrecusandae.png?size=300x300&set=set1",
+  "gender": "Bigender",
+  "phone_number": "+95 390.781.2073",
+  "social_insurance_number": "373996404",
+  "date_of_birth": "1970-12-30",
+  "employment": {
+    "title": "Product Producer",
+    "key_skill": "Technical savvy"
+  },
+  "address": {
+    "city": "Port Darrenborough",
+    "street_name": "Johnnie Walk",
+    "street_address": "681 Labadie Keys",
+    "zip_code": "00622-2778",
+    "state": "Oregon",
+    "country": "United States",
+    "coordinates": {
+      "lat": 5.431169850239968,
+      "lng": -77.05629518015081
+    }
+  },
+  "credit_card": {
+    "cc_number": "5536-5692-4587-8976"
+  },
+  "subscription": {
+    "plan": "Platinum",
+    "status": "Idle",
+    "payment_method": "Apple Pay",
+    "term": "Monthly"
+  }
+}
