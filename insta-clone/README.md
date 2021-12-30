@@ -17,6 +17,15 @@ npx create-next-app --example with-tailwindcss insta-clone
 yarn create next-app --example with-tailwindcss insta-clone
 ```
 
+<!--
+## Steps for hosting website online
+```
+npm i firebase
+```
+```
+firebase init
+``` -->
+
 ## Installation of third-party modules used in this project
 
 next-auth: for authentication
