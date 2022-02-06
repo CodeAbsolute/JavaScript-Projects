@@ -3,6 +3,8 @@
 This project is made using create-react-app and firebase version 9 to implement authentication in a simple Login - Signup Page.
 The tokens are generated and are stored in session storage.
 
+Hosted URL: https://auth-development-2e8c7.web.app
+
 ### `Deploying to firebase`
 
 Install the Firebase CLI via npm by running the following command.
